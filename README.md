@@ -9,7 +9,7 @@ Using a small, well-known customer dataset, the project showcases how unsupervis
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The project follows four main stages:
 
@@ -23,7 +23,7 @@ to demonstrate how clustering results can support **business understanding and d
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 customer-segmentation-interpretable-ml/
@@ -35,7 +35,7 @@ customer-segmentation-interpretable-ml/
 ├── Mall_Customers.csv
 └── README.md
 
-## 📊 Dataset
+## Dataset
 
 - **Source**: Mall Customers dataset (public Kaggle dataset)  
 - **Number of customers**: 200  
@@ -47,7 +47,7 @@ customer-segmentation-interpretable-ml/
 
 The dataset contains no missing values and all features are numerical, making it suitable for distance-based clustering methods.
 
-## 🧠 Methodology
+## Methodology
 
 ### 1️⃣ Exploratory Data Analysis (EDA)
 
@@ -78,7 +78,7 @@ A simplified A/B testing simulation is conducted to demonstrate how customer seg
 
 This section illustrates how segmentation results may translate into measurable business impact.
 
-## 📌 Key Insights
+## Key Insights
 
 - Annual income is the primary driver of customer segmentation.
 - Spending score further differentiates behavior within income groups.
@@ -86,13 +86,13 @@ This section illustrates how segmentation results may translate into measurable 
 - Interpretable models align closely with visual cluster structures.
 - Segment-level experimentation highlights how clustering can support targeted decisions.
 
-## ⚠️ Notes & Limitations
+## Notes & Limitations
 
 - The dataset is small and used for demonstration purposes only.
 - The A/B test is simulated and does not represent real experimental data.
 - Results should be interpreted as methodological examples rather than business conclusions.
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 
 - Python  
 - pandas, numpy  
@@ -100,7 +100,7 @@ This section illustrates how segmentation results may translate into measurable 
 - matplotlib, seaborn  
 - scipy
 
-## 👤 About This Project
+## About This Project
 
 This project was created as a portfolio example to demonstrate:
 
